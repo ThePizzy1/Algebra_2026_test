@@ -4,4 +4,3 @@
 
 ### Ovo  je promjena datoteke sa kompa.
 11
-#3
