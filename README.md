@@ -1,1 +1,3 @@
 #Algebra
+
+Promjena 1.
